@@ -115,6 +115,17 @@ export default function AdminPage() {
             >
               View Site
             </a>
+            <button
+              onClick={() => {
+                setAuthenticated(false);
+                setPassword("");
+                setMessages([]);
+                setSelectedMessage(null);
+              }}
+              className="text-red-400/70 hover:text-red-400 transition-colors text-sm cursor-pointer"
+            >
+              Sign Out
+            </button>
           </div>
         </div>
       </header>
