@@ -20,8 +20,8 @@ const config: Config = {
         "stone-dark": "#D4C9B5",
       },
       fontFamily: {
-        heading: ["var(--font-playfair)", "Georgia", "serif"],
-        body: ["var(--font-inter)", "system-ui", "sans-serif"],
+        heading: ["var(--font-heading)", "Georgia", "serif"],
+        body: ["var(--font-body)", "system-ui", "sans-serif"],
       },
     },
   },

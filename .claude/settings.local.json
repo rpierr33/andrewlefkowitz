@@ -18,7 +18,17 @@
       "mcp__magic__21st_magic_component_refiner",
       "mcp__magic__21st_magic_component_inspiration",
       "Bash(git init:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git branch:*)",
+      "Bash(git commit:*)",
+      "Bash(gh repo:*)",
+      "mcp__vercel__deploy_to_vercel",
+      "Bash(npx vercel:*)",
+      "Bash(python3 -m json.tool)",
+      "Bash(python3 scripts/search.py \"legal executive personal brand portfolio professional elegant\" --design-system -p \"Andrew Lefkowitz\")",
+      "Bash(python3 scripts/search.py \"elegant luxury executive dark gold\" --domain style -n 5)",
+      "Bash(python3 scripts/search.py \"contact form accessibility contrast\" --domain ux -n 5)",
+      "Bash(python3 scripts/search.py \"layout responsive form animation\" --stack nextjs)"
     ]
   },
   "enableAllProjectMcpServers": true,

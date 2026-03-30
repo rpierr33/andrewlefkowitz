@@ -75,14 +75,14 @@ export default function Hero() {
         >
           <a
             href="#about"
-            className="group relative overflow-hidden gold-gradient text-navy font-semibold px-10 py-4 rounded-sm text-[13px] uppercase tracking-[0.2em]"
+            className="group relative overflow-hidden gold-gradient text-navy font-semibold px-10 py-4 rounded-sm text-[13px] uppercase tracking-[0.2em] cursor-pointer"
           >
             <span className="relative z-10">Explore Background</span>
             <div className="absolute inset-0 bg-white/20 translate-y-full group-hover:translate-y-0 transition-transform duration-300" />
           </a>
           <a
             href="#contact"
-            className="border border-white/20 text-white/80 px-10 py-4 rounded-sm text-[13px] uppercase tracking-[0.2em] hover:border-gold/50 hover:text-gold transition-all duration-300"
+            className="border border-white/20 text-white/80 px-10 py-4 rounded-sm text-[13px] uppercase tracking-[0.2em] hover:border-gold/50 hover:text-gold transition-all duration-300 cursor-pointer"
           >
             Get in Touch
           </a>
